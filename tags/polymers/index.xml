@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pashupati Gupta</title>
-    <link>http://pashupati98.github.io/authors/admin/</link>
-      <atom:link href="http://pashupati98.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pashupati Gupta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 16:05:11 +0530</lastBuildDate>
+    <title>Polymers | Pashupati Gupta</title>
+    <link>http://pashupati98.github.io/tags/polymers/</link>
+      <atom:link href="http://pashupati98.github.io/tags/polymers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Polymers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 15:14:21 +0530</lastBuildDate>
     <image>
       <url>http://pashupati98.github.io/images/icon_hu252286c30f7052a69f81e7654eb6ee38_16312_512x512_fill_lanczos_center_2.png</url>
-      <title>Pashupati Gupta</title>
-      <link>http://pashupati98.github.io/authors/admin/</link>
+      <title>Polymers</title>
+      <link>http://pashupati98.github.io/tags/polymers/</link>
     </image>
-    
-    <item>
-      <title>Jarvis</title>
-      <link>http://pashupati98.github.io/project/jarvis/</link>
-      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
-      <guid>http://pashupati98.github.io/project/jarvis/</guid>
-      <description>&lt;h2 id=&#34;checkout-the-running-bot-on-telegram&#34;&gt;Checkout the running bot on Telegram.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://t.me/ppt98_bot&#34;&gt;Chatbot Link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The bot is running on an AWS EC2 instance. EC2 instance automatically turns off after a long time of inactivity. If the bot is not replying let me know I with turn it on.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Predicator</title>

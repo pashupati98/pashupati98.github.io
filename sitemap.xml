@@ -4,18 +4,81 @@
   
   <url>
     <loc>http://pashupati98.github.io/authors/admin/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://pashupati98.github.io/authors/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://pashupati98.github.io/categories/</loc>
+    <loc>http://pashupati98.github.io/tags/chatbot/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/tags/dialouge-system/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/project/jarvis/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/tags/nlp/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://pashupati98.github.io/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/project/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/tags/</loc>
+    <lastmod>2020-05-25T16:05:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-05-25T15:14:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/tags/polymers/</loc>
+    <lastmod>2020-05-25T15:14:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/project/predicator/</loc>
+    <lastmod>2020-05-25T15:14:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/talk/my-talk-name/</loc>
+    <lastmod>2020-05-25T14:01:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/talk/</loc>
+    <lastmod>2020-05-25T14:01:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pashupati98.github.io/categories/</loc>
   </url>
   
   <url>
@@ -28,14 +91,6 @@
   
   <url>
     <loc>http://pashupati98.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>http://pashupati98.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>http://pashupati98.github.io/tags/</loc>
   </url>
   
 </urlset>

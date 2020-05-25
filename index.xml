@@ -5,12 +5,68 @@
     <link>http://pashupati98.github.io/</link>
       <atom:link href="http://pashupati98.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pashupati Gupta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 16:05:11 +0530</lastBuildDate>
     <image>
       <url>http://pashupati98.github.io/images/icon_hu252286c30f7052a69f81e7654eb6ee38_16312_512x512_fill_lanczos_center_2.png</url>
       <title>Pashupati Gupta</title>
       <link>http://pashupati98.github.io/</link>
     </image>
+    
+    <item>
+      <title>Jarvis</title>
+      <link>http://pashupati98.github.io/project/jarvis/</link>
+      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
+      <guid>http://pashupati98.github.io/project/jarvis/</guid>
+      <description>&lt;h2 id=&#34;checkout-the-running-bot-on-telegram&#34;&gt;Checkout the running bot on Telegram.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.me/ppt98_bot&#34;&gt;Chatbot Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The bot is running on an AWS EC2 instance. EC2 instance automatically turns off after a long time of inactivity. If the bot is not replying let me know I with turn it on.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicator</title>
+      <link>http://pashupati98.github.io/project/predicator/</link>
+      <pubDate>Mon, 25 May 2020 15:14:21 +0530</pubDate>
+      <guid>http://pashupati98.github.io/project/predicator/</guid>
+      <description>&lt;p&gt;Predicator is a Machine Learning enabled platform to predict critical chain length of a polymer corresponding to its saturated solubility parameter.&lt;/p&gt;
+&lt;p&gt;Checkout the product -
+&lt;a href=&#34;https://polypredictor.herokuapp.com/&#34;&gt;Predicator&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cover Image Credits - 
+&lt;a href=&#34;https://science-in-chains.natfak2.uni-halle.de/microscopic-insight/&#34;&gt;Science-In-Chains&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Now-a-days machine learning is extensively being used by researchers to accelerate the development process of novel materials. Development of novel polymers can also be accelerated by using machine learning algorithms in many ways. i.e.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Predicting properties of a novel polymer before synthesizing it in the laboratory.&lt;/li&gt;
+&lt;li&gt;Tuning the design of a polymer to have desired set of properties.&lt;/li&gt;
+&lt;li&gt;Extracting valuable information from failed experiments by traning ML models.&lt;/li&gt;
+&lt;li&gt;For accelerating material simulation &amp;amp; materials design models (CGM, PSO etc.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So, whenever we have sufficient amount of data and we need to extract some valuable information from that or need to make some prediction, we can use appropriate machine learning algorithm.&lt;/p&gt;
+&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;
+&lt;p&gt;The problem on which this project is based on is predicting critical chain length of a desired polymer corresponding to its saturated solubility parameter.&lt;/p&gt;
+&lt;h4 id=&#34;critical-chain-length--saturated-solubility-parameter&#34;&gt;Critical Chain Length &amp;amp; Saturated Solubility Parameter&lt;/h4&gt;
+&lt;p&gt;Solubility parameter of a polymer depends on its chain length and after a certain chain length it becomes saturated (no more significant change) more details can be found in literature&lt;/p&gt;
+&lt;p&gt;Now the issue is the calculation of this value which involves molecular simulations. This process is very slow, computesionaly expensive and inefficient. Our apporach is to solve this problem using machine learning so that we can directly predict the chain length at which the solubility parameter of a polymer will become saturated.&lt;/p&gt;
+&lt;h2 id=&#34;machine-learning-based-solution&#34;&gt;Machine Learning based solution&lt;/h2&gt;
+&lt;p&gt;So, we are trying to train a machine learning model on a dataset which is having the data of polymers and their critical chain length. The very first issue is making such dataset because we need all the data in mathematical form. We used group conribution theory and developed a python program which is used extract features from a repeting unit structure and make a fingerprint of that polymer using feature vectors and ultimately represents the polymer in numerical form. So, the processed dataset have numerical representation of a polymer and its critical chain length.&lt;/p&gt;
+&lt;p&gt;Next we are developing a machine learning model from scratch to learn the dependency of critical chain length on various features. Firstly we used linear hypothesis for this purpose because we need continuous outputs. Now we are working on support vector regression model to get better efficiency. We are also working on self evolving machine learning algorithms.&lt;/p&gt;
+&lt;h4 id=&#34;challenges&#34;&gt;Challenges&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Appropriate numerical representation of a polymer (Using some optimization algorithm)&lt;/li&gt;
+&lt;li&gt;Collecting sufficient amount of data (Using data augmentation techniques)&lt;/li&gt;
+&lt;li&gt;Optimizing number of features to train the model. (Literature Survey Going On)&lt;/li&gt;
+&lt;li&gt;Mapping function to map features vectors to desired property. (Literature Survey Going On)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Talk Name</title>
+      <link>http://pashupati98.github.io/talk/my-talk-name/</link>
+      <pubDate>Mon, 25 May 2020 14:01:44 +0530</pubDate>
+      <guid>http://pashupati98.github.io/talk/my-talk-name/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
