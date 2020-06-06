@@ -5,7 +5,7 @@
     <link>http://pashupati98.github.io/tags/</link>
       <atom:link href="http://pashupati98.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 25 May 2020 16:05:11 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 06 Jun 2020 21:58:20 +0530</lastBuildDate>
     <image>
       <url>http://pashupati98.github.io/images/icon_hu252286c30f7052a69f81e7654eb6ee38_16312_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -13,34 +13,34 @@
     </image>
     
     <item>
-      <title>Chatbot</title>
-      <link>http://pashupati98.github.io/tags/chatbot/</link>
-      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
-      <guid>http://pashupati98.github.io/tags/chatbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Learning</title>
       <link>http://pashupati98.github.io/tags/deep-learning/</link>
-      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
+      <pubDate>Sat, 06 Jun 2020 21:58:20 +0530</pubDate>
       <guid>http://pashupati98.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dialouge System</title>
-      <link>http://pashupati98.github.io/tags/dialouge-system/</link>
-      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
-      <guid>http://pashupati98.github.io/tags/dialouge-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
       <link>http://pashupati98.github.io/tags/nlp/</link>
-      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
+      <pubDate>Sat, 06 Jun 2020 21:58:20 +0530</pubDate>
       <guid>http://pashupati98.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatbot</title>
+      <link>http://pashupati98.github.io/tags/chatbot/</link>
+      <pubDate>Tue, 26 May 2020 22:05:11 +0530</pubDate>
+      <guid>http://pashupati98.github.io/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialouge System</title>
+      <link>http://pashupati98.github.io/tags/dialouge-system/</link>
+      <pubDate>Tue, 26 May 2020 22:05:11 +0530</pubDate>
+      <guid>http://pashupati98.github.io/tags/dialouge-system/</guid>
       <description></description>
     </item>
     

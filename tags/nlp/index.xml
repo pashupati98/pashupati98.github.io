@@ -5,7 +5,7 @@
     <link>http://pashupati98.github.io/tags/nlp/</link>
       <atom:link href="http://pashupati98.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 25 May 2020 16:05:11 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 06 Jun 2020 21:58:20 +0530</lastBuildDate>
     <image>
       <url>http://pashupati98.github.io/images/icon_hu252286c30f7052a69f81e7654eb6ee38_16312_512x512_fill_lanczos_center_2.png</url>
       <title>NLP</title>
@@ -13,12 +13,24 @@
     </image>
     
     <item>
+      <title>Building a Text Classification model using BiLSTM</title>
+      <link>http://pashupati98.github.io/post/test/</link>
+      <pubDate>Sat, 06 Jun 2020 21:58:20 +0530</pubDate>
+      <guid>http://pashupati98.github.io/post/test/</guid>
+      <description>&lt;p&gt;Text classification is one of the fundamental tasks in NLP. Almost every NLP system uses text classification somewhere in its backend. For example - The intent classifier of a chatbot, named-entity recognition, auto-tagging, etc.&lt;/p&gt;
+&lt;p&gt;There are many approaches to this problem from statistical machine learning models (Logistic, Naive Bays, SVM, etc.) to high-end deep learning models (CNN, RNN, Transformers, etc.). This blog covers the practical aspects (coding) of building a text classification model using a recurrent neural network (BiLSTM). We will use Python and Jupyter Notebook along with several libraries to build an offensive language/text classification model.&lt;/p&gt;
+&lt;p&gt;Continue reading on &lt;a href=&#34;https://medium.com/analytics-vidhya/building-a-text-classification-model-using-bilstm-c0548ace26f2&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Jarvis</title>
       <link>http://pashupati98.github.io/project/jarvis/</link>
-      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
+      <pubDate>Tue, 26 May 2020 22:05:11 +0530</pubDate>
       <guid>http://pashupati98.github.io/project/jarvis/</guid>
-      <description>&lt;h2 id=&#34;checkout-the-running-bot-on-telegram&#34;&gt;Checkout the running bot on Telegram.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://t.me/ppt98_bot&#34;&gt;Chatbot Link&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Jarvis is a chatbot specifically created to work as a StackOverflow Assiatant but it can also do some normal chit-chat&lt;/p&gt;
+&lt;h4 id=&#34;checkout-the-running-bot-on-telegram&#34;&gt;Checkout the running bot on Telegram.&lt;/h4&gt;
+&lt;p&gt;Talk to the bot - &lt;a href=&#34;http://t.me/ppt98_bot&#34;&gt;Chatbot Link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The bot is running on an AWS EC2 instance. EC2 instance automatically turns off after a long time of inactivity. If the bot is not replying let me know I with turn it on.&lt;/p&gt;
 </description>
     </item>

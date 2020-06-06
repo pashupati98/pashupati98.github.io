@@ -5,7 +5,7 @@
     <link>http://pashupati98.github.io/tags/dialouge-system/</link>
       <atom:link href="http://pashupati98.github.io/tags/dialouge-system/index.xml" rel="self" type="application/rss+xml" />
     <description>Dialouge System</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 25 May 2020 16:05:11 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 26 May 2020 22:05:11 +0530</lastBuildDate>
     <image>
       <url>http://pashupati98.github.io/images/icon_hu252286c30f7052a69f81e7654eb6ee38_16312_512x512_fill_lanczos_center_2.png</url>
       <title>Dialouge System</title>
@@ -15,10 +15,11 @@
     <item>
       <title>Jarvis</title>
       <link>http://pashupati98.github.io/project/jarvis/</link>
-      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
+      <pubDate>Tue, 26 May 2020 22:05:11 +0530</pubDate>
       <guid>http://pashupati98.github.io/project/jarvis/</guid>
-      <description>&lt;h2 id=&#34;checkout-the-running-bot-on-telegram&#34;&gt;Checkout the running bot on Telegram.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://t.me/ppt98_bot&#34;&gt;Chatbot Link&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Jarvis is a chatbot specifically created to work as a StackOverflow Assiatant but it can also do some normal chit-chat&lt;/p&gt;
+&lt;h4 id=&#34;checkout-the-running-bot-on-telegram&#34;&gt;Checkout the running bot on Telegram.&lt;/h4&gt;
+&lt;p&gt;Talk to the bot - &lt;a href=&#34;http://t.me/ppt98_bot&#34;&gt;Chatbot Link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The bot is running on an AWS EC2 instance. EC2 instance automatically turns off after a long time of inactivity. If the bot is not replying let me know I with turn it on.&lt;/p&gt;
 </description>
     </item>

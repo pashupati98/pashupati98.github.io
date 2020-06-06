@@ -5,7 +5,7 @@
     <link>http://pashupati98.github.io/project/</link>
       <atom:link href="http://pashupati98.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 25 May 2020 16:05:11 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 26 May 2020 22:05:11 +0530</lastBuildDate>
     <image>
       <url>http://pashupati98.github.io/images/icon_hu252286c30f7052a69f81e7654eb6ee38_16312_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -15,22 +15,36 @@
     <item>
       <title>Jarvis</title>
       <link>http://pashupati98.github.io/project/jarvis/</link>
-      <pubDate>Mon, 25 May 2020 16:05:11 +0530</pubDate>
+      <pubDate>Tue, 26 May 2020 22:05:11 +0530</pubDate>
       <guid>http://pashupati98.github.io/project/jarvis/</guid>
-      <description>&lt;h2 id=&#34;checkout-the-running-bot-on-telegram&#34;&gt;Checkout the running bot on Telegram.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://t.me/ppt98_bot&#34;&gt;Chatbot Link&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Jarvis is a chatbot specifically created to work as a StackOverflow Assiatant but it can also do some normal chit-chat&lt;/p&gt;
+&lt;h4 id=&#34;checkout-the-running-bot-on-telegram&#34;&gt;Checkout the running bot on Telegram.&lt;/h4&gt;
+&lt;p&gt;Talk to the bot - &lt;a href=&#34;http://t.me/ppt98_bot&#34;&gt;Chatbot Link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The bot is running on an AWS EC2 instance. EC2 instance automatically turns off after a long time of inactivity. If the bot is not replying let me know I with turn it on.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Predicator</title>
-      <link>http://pashupati98.github.io/project/predicator/</link>
+      <title>Dolores</title>
+      <link>http://pashupati98.github.io/project/dolores/</link>
+      <pubDate>Tue, 26 May 2020 22:02:51 +0530</pubDate>
+      <guid>http://pashupati98.github.io/project/dolores/</guid>
+      <description>&lt;p&gt;Dolores doesn&#39;t like offensive language. She can very precisely classify a text into offensive/Non-offensive&lt;/p&gt;
+&lt;p&gt;Link to the running App - &lt;a href=&#34;https://thedolores.herokuapp.com/&#34;&gt;https://thedolores.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Documentation - &lt;a href=&#34;https://medium.com/analytics-vidhya/building-a-text-classification-model-using-bilstm-c0548ace26f2&#34;&gt;Read on Medium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub - &lt;a href=&#34;https://github.com/pashupati98/Text-Classification&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimator</title>
+      <link>http://pashupati98.github.io/project/estimator/</link>
       <pubDate>Mon, 25 May 2020 15:14:21 +0530</pubDate>
-      <guid>http://pashupati98.github.io/project/predicator/</guid>
-      <description>&lt;p&gt;Predicator is a Machine Learning enabled platform to predict critical chain length of a polymer corresponding to its saturated solubility parameter.&lt;/p&gt;
+      <guid>http://pashupati98.github.io/project/estimator/</guid>
+      <description>&lt;p&gt;Estimator is a Machine Learning enabled platform to predict critical chain length of a polymer corresponding to its saturated solubility parameter.&lt;/p&gt;
 &lt;p&gt;Checkout the product -
-&lt;a href=&#34;https://polypredictor.herokuapp.com/&#34;&gt;Predicator&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://polypredictor.herokuapp.com/&#34;&gt;Estimator&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Cover Image Credits - 
 &lt;a href=&#34;https://science-in-chains.natfak2.uni-halle.de/microscopic-insight/&#34;&gt;Science-In-Chains&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;

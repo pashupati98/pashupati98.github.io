@@ -13,13 +13,13 @@
     </image>
     
     <item>
-      <title>Predicator</title>
-      <link>http://pashupati98.github.io/project/predicator/</link>
+      <title>Estimator</title>
+      <link>http://pashupati98.github.io/project/estimator/</link>
       <pubDate>Mon, 25 May 2020 15:14:21 +0530</pubDate>
-      <guid>http://pashupati98.github.io/project/predicator/</guid>
-      <description>&lt;p&gt;Predicator is a Machine Learning enabled platform to predict critical chain length of a polymer corresponding to its saturated solubility parameter.&lt;/p&gt;
+      <guid>http://pashupati98.github.io/project/estimator/</guid>
+      <description>&lt;p&gt;Estimator is a Machine Learning enabled platform to predict critical chain length of a polymer corresponding to its saturated solubility parameter.&lt;/p&gt;
 &lt;p&gt;Checkout the product -
-&lt;a href=&#34;https://polypredictor.herokuapp.com/&#34;&gt;Predicator&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://polypredictor.herokuapp.com/&#34;&gt;Estimator&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Cover Image Credits - 
 &lt;a href=&#34;https://science-in-chains.natfak2.uni-halle.de/microscopic-insight/&#34;&gt;Science-In-Chains&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
